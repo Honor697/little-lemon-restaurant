@@ -1,24 +1,21 @@
 {
   "files": {
-    "main.css": "/Honor697/little-lemon-restaurant.git/static/css/main.371e8ec7.css",
-    "main.js": "/Honor697/little-lemon-restaurant.git/static/js/main.b76e9cae.js",
+    "main.css": "/Honor697/little-lemon-restaurant.git/static/css/main.a41279f3.css",
+    "main.js": "/Honor697/little-lemon-restaurant.git/static/js/main.6ce4355f.js",
     "static/js/787.6aedfd9b.chunk.js": "/Honor697/little-lemon-restaurant.git/static/js/787.6aedfd9b.chunk.js",
     "static/media/chefs-mario-and-adrian_1.jpg": "/Honor697/little-lemon-restaurant.git/static/media/chefs-mario-and-adrian_1.baf0d2e31dc6977f913f.jpg",
     "static/media/chefs-mario-and-adrian_2.jpg": "/Honor697/little-lemon-restaurant.git/static/media/chefs-mario-and-adrian_2.5d8cccd399ab68c5c40b.jpg",
     "static/media/greek-salad.jpg": "/Honor697/little-lemon-restaurant.git/static/media/greek-salad.25fc793faeb3d58ed9fb.jpg",
     "static/media/bruschetta.jpg": "/Honor697/little-lemon-restaurant.git/static/media/bruschetta.d54e450bda5efcf06010.jpg",
     "static/media/restaurant-food.jpg": "/Honor697/little-lemon-restaurant.git/static/media/restaurant-food.827fb0bfe6f625329f41.jpg",
-    "static/media/logo-white.png": "/Honor697/little-lemon-restaurant.git/static/media/logo-white.d09eb2af6c5a2225eedf.png",
     "static/media/lemon-dessert.jpeg": "/Honor697/little-lemon-restaurant.git/static/media/lemon-dessert.04777776616e51c6d2ae.jpeg",
-    "static/media/logo.png": "/Honor697/little-lemon-restaurant.git/static/media/logo.e68246686f716ff6e5d8.png",
     "index.html": "/Honor697/little-lemon-restaurant.git/index.html",
-    "static/media/arrowDown.svg": "/Honor697/little-lemon-restaurant.git/static/media/arrowDown.8a70b7250e71a1b25016.svg",
-    "main.371e8ec7.css.map": "/Honor697/little-lemon-restaurant.git/static/css/main.371e8ec7.css.map",
-    "main.b76e9cae.js.map": "/Honor697/little-lemon-restaurant.git/static/js/main.b76e9cae.js.map",
+    "main.a41279f3.css.map": "/Honor697/little-lemon-restaurant.git/static/css/main.a41279f3.css.map",
+    "main.6ce4355f.js.map": "/Honor697/little-lemon-restaurant.git/static/js/main.6ce4355f.js.map",
     "787.6aedfd9b.chunk.js.map": "/Honor697/little-lemon-restaurant.git/static/js/787.6aedfd9b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.371e8ec7.css",
-    "static/js/main.b76e9cae.js"
+    "static/css/main.a41279f3.css",
+    "static/js/main.6ce4355f.js"
   ]
 }
