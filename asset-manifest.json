@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Honor697/little-lemon-restaurant.git/static/css/main.371e8ec7.css",
-    "main.js": "/Honor697/little-lemon-restaurant.git/static/js/main.13bd971d.js",
+    "main.js": "/Honor697/little-lemon-restaurant.git/static/js/main.b76e9cae.js",
     "static/js/787.6aedfd9b.chunk.js": "/Honor697/little-lemon-restaurant.git/static/js/787.6aedfd9b.chunk.js",
     "static/media/chefs-mario-and-adrian_1.jpg": "/Honor697/little-lemon-restaurant.git/static/media/chefs-mario-and-adrian_1.baf0d2e31dc6977f913f.jpg",
     "static/media/chefs-mario-and-adrian_2.jpg": "/Honor697/little-lemon-restaurant.git/static/media/chefs-mario-and-adrian_2.5d8cccd399ab68c5c40b.jpg",
@@ -14,11 +14,11 @@
     "index.html": "/Honor697/little-lemon-restaurant.git/index.html",
     "static/media/arrowDown.svg": "/Honor697/little-lemon-restaurant.git/static/media/arrowDown.8a70b7250e71a1b25016.svg",
     "main.371e8ec7.css.map": "/Honor697/little-lemon-restaurant.git/static/css/main.371e8ec7.css.map",
-    "main.13bd971d.js.map": "/Honor697/little-lemon-restaurant.git/static/js/main.13bd971d.js.map",
+    "main.b76e9cae.js.map": "/Honor697/little-lemon-restaurant.git/static/js/main.b76e9cae.js.map",
     "787.6aedfd9b.chunk.js.map": "/Honor697/little-lemon-restaurant.git/static/js/787.6aedfd9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.371e8ec7.css",
-    "static/js/main.13bd971d.js"
+    "static/js/main.b76e9cae.js"
   ]
 }
